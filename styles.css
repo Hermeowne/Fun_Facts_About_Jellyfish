@@ -1,0 +1,18 @@
+h1 {
+  text-decoration: underline;
+}
+body {
+  background-color: rgb(225, 192, 255);
+}
+
+.facts {
+  background-color: rgb(189, 196, 237);
+  border: 3px solid black;
+  color: black;
+  font-family: sans-serif;
+  font-size: 20px;
+  padding: 2.5rem 10rem;
+  margin: auto;
+  width: 50%;
+  float: centre;
+}
